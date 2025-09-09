@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: CTF Category
 description: A description of this category
 image:
 
